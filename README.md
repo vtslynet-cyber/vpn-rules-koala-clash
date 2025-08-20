@@ -22,4 +22,4 @@
 Если у тебя MacOS/Linux — используй только `DOMAIN` и `IP-CIDR`.
 Список можно расширять под свои нужды.
 
-# UDP - 'DOMAIN-SUFFIX,shikimori.one,VPN' из за данного правила выходила ошибка в Koala Clash - удалил правило.
+### UDP - 'DOMAIN-SUFFIX,shikimori.one,VPN' из за данного правила выходила ошибка в Koala Clash - удалил правило.
