@@ -46,7 +46,6 @@
     "DOMAIN-SUFFIX,steamcommunity.com,DIRECT",
     "DOMAIN-SUFFIX,steamstatic.com,DIRECT",
     "DOMAIN-SUFFIX,steamcontent.com,DIRECT",
-    "DOMAIN-SUFFIX,shikimori.one,VPN",
     "DOMAIN-SUFFIX,jut.su,VPN",
     "DOMAIN-SUFFIX,anilib.me,VPN",
     "DOMAIN-SUFFIX,animego.org,VPN",
